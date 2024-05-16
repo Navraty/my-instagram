@@ -106,9 +106,9 @@ const Post = ({ id, photoURL, caption, likedBy, userId, timestamp }) => {
                             placeholder="Add a comment..."
                             value={comment}
                             onChange={(e) => setComment(e.target.value)}
-                            className="input input-bordered w-full"
+                            className="input input-bordered bg-pink-600 w-full text-white"
                         />
-                        <button type="submit" className="btn btn-sm mt-2 shadow bg-blue-500 text-slate-100 hover:text-black font-bold">Comment</button>
+                        <button type="submit" className="btn btn-sm mt-2 shadow bg-blue-500 text-white hover:text-white font-bold">Comment</button>
                     </form>
                 </div>
                 <div className=" flex justify-end">

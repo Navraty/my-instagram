@@ -6,12 +6,13 @@ import { setPersistence, browserSessionPersistence } from 'firebase/auth';
 
 //Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCRk86K_x3uTYvSoD7edeMJFlYN4vrIYAg",
-  authDomain: "instagramclone241.firebaseapp.com",
-  projectId: "instagramclone241",
-  storageBucket: "instagramclone241.appspot.com",
-  messagingSenderId: "567921808959",
-  appId: "1:567921808959:web:6ca2bafa2d16ce1749ca8a"
+  apiKey: "AIzaSyAfrhpctts_5QD9mGr-NSy8EuGcp-lB9O4",
+  authDomain: "my-instagram-769b0.firebaseapp.com",
+  databaseURL: "https://my-instagram-769b0-default-rtdb.firebaseio.com",
+  projectId: "my-instagram-769b0",
+  storageBucket: "my-instagram-769b0.appspot.com",
+  messagingSenderId: "844319584898",
+  appId: "1:844319584898:web:2f68a88684290641043a9b"
 };
 
 // Initialize Firebase

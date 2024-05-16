@@ -5,7 +5,7 @@ import PostList from './Components/Post/PostList';
 const Home = () => {
   return (
     <div>
-      <div className='min-h-screen bg-gradient-to-r from-green-400 via-yellow-500 to-blue-500 animate-gradient-x'>
+      <div className='bg-red-200'>
         <Navbar  />
         <main className="mx-auto sm:w-full md:w-[60%] lg:w-[45%] p-5">
             <PostList />            

@@ -11,7 +11,7 @@
     "@testing-library/user-event": "^13.5.0",
     "autoprefixer": "^10.4.19",
     "date-fns": "^3.6.0",
-    "firebase": "^10.11.1",
+    "firebase": "^10.12.0",
     "firebaseui": "^6.1.0",
     "postcss": "^8.4.38",
     "react": "^18.3.1",
